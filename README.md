@@ -36,19 +36,17 @@
 
 ### **Acceptance Criteria...**
 
-| <span style="color:lightgreen;">**I Want...**</span>        | <span style="color:lightgreen;">**So that...**</span>         |
 | ----------------------------------------------------------- | ------------------------------------------------------------- |
 | to randomly generate a password that meets certain criteria | I can create a strong password that provides greater security |
 
-| <span style="color:red;">**When...**</span>          | <span style="color:red;">**Then...**</span>                                                  |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| I click the button to generate a password            | I am presented with a series of prompts for password criteria                                |
-| Prompted for password criteria                       | I select which criteria to include in the password                                           |
-| Prompted for the length of the password              | I choose a length of at least 8 characters and no more than 128 characters                   |
+| I click the button to generate a password | I am presented with a series of prompts for password criteria |
+| Prompted for password criteria | I select which criteria to include in the password |
+| Prompted for the length of the password | I choose a length of at least 8 characters and no more than 128 characters |
 | Asked for character types to include in the password | I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters |
-| I answer each prompt                                 | My input should be validated and at least one character type should be selected              |
-| All prompts are answered                             | A password is generated that matches the selected criteria                                   |
-| The password is generated                            | The password is either displayed in an alert or written to the page                          |
+| I answer each prompt | My input should be validated and at least one character type should be selected |
+| All prompts are answered | A password is generated that matches the selected criteria |
+| The password is generated | The password is either displayed in an alert or written to the page |
 
 <small>Note: If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.</small>
 
